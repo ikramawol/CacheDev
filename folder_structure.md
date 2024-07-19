@@ -1,5 +1,3 @@
-Here's a markdown file describing the folder structure of your project:
-
 ```markdown
 # Project Folder Structure
 
