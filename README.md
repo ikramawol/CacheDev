@@ -105,6 +105,7 @@ This project involves creating a sentiment analysis dashboard powered by AI. The
         ```bash
         docker-compose up --build
         ```
+### If you want to understand more about the project's folder structure, please refer to the [Folder Structure](./folder_structure.md) documentation.
 
 ## Usage
 
