@@ -1,4 +1,4 @@
-```markdown
+
 # Project Folder Structure
 
 This document outlines the folder structure for the CacheDev project, which utilizes a pre-trained model from Hugging Face for sentiment analysis.
