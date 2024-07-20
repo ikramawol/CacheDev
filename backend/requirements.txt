@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Werkzeug
+numpy
+pandas
+scikit-learn
+transformers
+torch
+requests
+pytest
